@@ -10,4 +10,4 @@ for (var i = 1; i <= n; i++) {
     factorial = 1;
 }
 
-WScript.Echo("Сумма первых " + n + " элементов равна: " + sum);
+WScript.Echo("Sum of the first " + n + " elements is: " + sum);
